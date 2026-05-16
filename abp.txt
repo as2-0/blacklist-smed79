@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202504230109
+! Version: 202605162009
 ! Title: smed79 BlackList
-! Last modified: 2025-04-23 01:09 UTC
+! Last modified: 2026-05-16 20:09 UTC
 ! Expires: 15 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -35637,7 +35637,6 @@
 ||disconnectedponder.com^
 ||disconnectfrequentinvalid.com^
 ||disconnectthirstyron.com^
-||discordapp.com^
 ||discordclosure.com^
 ||discospiritirresponsible.com^
 ||discountclick.com^
